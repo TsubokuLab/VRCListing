@@ -17,13 +17,13 @@
         {
             "name":"com.teruaki-tsubokura.VRChatEventCalenderPrefab",
             "releases":[
-                "http://teruaki-tsubokura.com/downloads/vrc/VRChatEventCalenderPrefab_v0.1.1.unitypackage"
+                "<enter release .zip url>"
             ]
         },
         {
             "name":"com.teruaki-tsubokura.ChaperoneShader",
             "releases":[
-                "http://teruaki-tsubokura.com/downloads/vrc/ChaperoneShader_v1.1.unitypackage"
+                "<enter release .zip url>"
             ]
         }
     ]

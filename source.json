@@ -15,13 +15,13 @@
     "bannerUrl":"banner.png",
     "packages":[
         {
-            "name":"com.vrchat.VRChatEventCalenderPrefab",
+            "name":"com.teruaki-tsubokura.VRChatEventCalenderPrefab",
             "releases":[
                 "http://teruaki-tsubokura.com/downloads/vrc/VRChatEventCalenderPrefab_v0.1.1.unitypackage"
             ]
         },
         {
-            "name":"com.vrchat.ChaperoneShader",
+            "name":"com.teruaki-tsubokura.ChaperoneShader",
             "releases":[
                 "http://teruaki-tsubokura.com/downloads/vrc/ChaperoneShader_v1.1.unitypackage"
             ]

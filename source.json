@@ -13,15 +13,17 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.vrchat.VRChatEventCalenderPrefab",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "http://teruaki-tsubokura.com/downloads/vrc/VRChatEventCalenderPrefab_v0.1.1.unitypackage"
+            ]
+        },
+        {
+            "name":"com.vrchat.ChaperoneShader",
+            "releases":[
+                "http://teruaki-tsubokura.com/downloads/vrc/ChaperoneShader_v1.1.unitypackage"
             ]
         }
     ]

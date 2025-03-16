@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"TsubokuLab",
+    "id":"com.teruaki-tsubokura.udonprops",
+    "url":"http://github.teruaki-tsubokura.com/VRCListing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"spinning.spirit@gmail.com",
+        "name":"Teruaki Tsubokura",
+        "url":"https://x.com/kohack_v"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"TsubokuLab listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/TsubokuLab/VRCListing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
